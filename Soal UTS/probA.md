@@ -17,9 +17,10 @@ Constraints
 Input
 -
 Input data diberikan dengan format:
-``
+
+```
 p n
-``
+```
 
 Output
 -
