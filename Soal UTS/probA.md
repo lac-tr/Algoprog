@@ -1,4 +1,4 @@
-## A. Total Belanja
+# A. Total Belanja
 
 Time limit	`500 ms`
 
