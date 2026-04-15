@@ -1,4 +1,4 @@
-## B. Analisis Penjualan
+# B. Analisis Penjualan
 Time limit	`500 ms`
 
 Memory limit	`256 MB`
