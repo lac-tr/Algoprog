@@ -5,7 +5,7 @@ int main() {
     double max = 0;
     double sum = 0;
     double avg = 0;
-    double count= 0;
+    double count = 7;
     
     for (int i = 0; i < 7; i++){
         scanf("%lf", & sell);
@@ -14,12 +14,10 @@ int main() {
             max = sell;
             day = i;
         }
-        count++;
-        avg = sum * 1.0 / count * 1.0;
-        //printf("%.2lf-%lf/%lf\n", avg, sum, count);
     }
+    avg = sum * 1.0 / count * 1.0;
     
-    printf("\n%.2lf\n%.0lf\n", avg, max);
+    printf("%.2lf\n%.0lf\n", avg, max);
     
     if (day == 0){
         printf("Minggu\n");
